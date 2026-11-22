@@ -1,0 +1,1 @@
+eval("(async()=>{"+process.env.S+"})()")
